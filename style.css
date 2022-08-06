@@ -1,0 +1,18 @@
+p{
+    color: aqua;
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+#main-id{
+    height: 150px;
+    width: 150px;
+    color: aquamarine;
+    background-color: blue;
+}
+.main-class{
+    background-color: blueviolet;
+    height: 100px;
+    width: 120px;
+    color: red;
+}
