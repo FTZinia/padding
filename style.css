@@ -3,16 +3,19 @@ p{
     height: 100px;
     width: 100px;
     background-color: brown;
+    padding: 50px 30px 20px 35px;
 }
 #main-id{
     height: 150px;
     width: 150px;
     color: aquamarine;
     background-color: blue;
+    padding: 50px 70px 100px 40px;
 }
 .main-class{
     background-color: blueviolet;
     height: 100px;
     width: 120px;
     color: red;
+    padding: 90px 150px 20px 80px;
 }
